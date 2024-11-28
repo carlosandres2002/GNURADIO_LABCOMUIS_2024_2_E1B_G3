@@ -1,0 +1,5 @@
+# Laboratorio 4-a: *Emisoras FM*
+
+Este laboratorio se centró en el análisis de emisoras de radio en la región de Bucaramanga o cercanas a Bucaramanga utilizando la página de Radiofusión Sonora de Colombia y GNU Radio. Inicialmente, se identificaron emisoras cercanas y se extrajeron sus características principales, como el audio monoaural (L+R), la señal piloto para receptores estéreo, el canal L-R (estéreo) y subportadoras adicionales para transmisiones complementarias. Toda esta información se registró detalladamente en un archivo Excel, incluyendo las frecuencias de operación de cada emisora.
+
+Se determino el ancho de banda de las emisoras utilizando GNU Radio y un analizador de espectros. Aunque el ancho de banda ideal se aproxima a 200 kHz, los análisis detallados mostraron valores más cercanos a 160 kHz al aplicar la regla de los 20 dB, revelando diferencias entre las estimaciones teóricas y las mediciones prácticas. Este contraste permitió comprender mejor el comportamiento real de las señales en el espectro radioeléctrico.
