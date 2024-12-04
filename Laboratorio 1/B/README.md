@@ -6,5 +6,5 @@ Cómo se ilustra en la imagen donde muestra un análisis de potencia y atenuaci�
 
 Las gráficas ilustran:
 
-    Potencia recibida: Disminuye con el aumento de frecuencia y depende de la ganancia del transmisor.
-    Atenuación del cable: Incrementa con la frecuencia, destacando las pérdidas en el enlace.
+- Potencia recibida: Disminuye con el aumento de frecuencia y depende de la ganancia del transmisor.
+- Atenuación del cable: Incrementa con la frecuencia, destacando las pérdidas en el enlace.
