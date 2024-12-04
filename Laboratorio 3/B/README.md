@@ -4,7 +4,7 @@ En la realización del laboratorio número 3B, se debía variar la frecuencia de
  
  *Modulación de bit - Modulación de amplitud binaria*
 
- ![WhatsApp Image 2024-11-01 at 9.16.58 PM.jpeg](https://github.com/carlosandres2002/GNURADIO_LABCOMUIS_2024_2_E1B_G3/blob/main/Laboratorio%203/B/WhatsApp%20Image%202024-11-01%20at%209.16.58%20PM.jpeg)
+ ![WhatsApp Image 2024-11-01 at 9.16.58 PM (2).jpeg](https://github.com/carlosandres2002/GNURADIO_LABCOMUIS_2024_2_E1B_G3/blob/main/Laboratorio%203/B/WhatsApp%20Image%202024-11-01%20at%209.16.58%20PM%20(2).jpeg)
 
 En el laboratorio se llevaron a cabo experimentos donde se variaron la frecuencia de la señal portadora y la ganancia de transmisión. El objetivo principal era obtener mediciones en el osciloscopio sobre el ancho de banda del bit y el índice de modulación. A través de estas pruebas, se busca analizar cómo la señal se transforma en función de estos parámetros.
 
