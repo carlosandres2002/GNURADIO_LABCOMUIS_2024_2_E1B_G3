@@ -6,4 +6,6 @@ Cómo puede grafica de una función coseno que es generada por GNU Radio:
  <img src= "https://github.com/user-attachments/assets/fc791383-b87c-477a-89a7-3bc2fdb256cd" width = "500">
 </p>  
 O la grafica de una señal cuadrada:
-![Captura desde 2024-12-04 16-54-06](https://github.com/user-attachments/assets/22d5e16b-a498-4c3d-9943-d9d393f10935)
+<p align ="center">
+ <img src= "https://github.com/user-attachments/assets/22d5e16b-a498-4c3d-9943-d9d393f10935" width = "500">
+</p>
